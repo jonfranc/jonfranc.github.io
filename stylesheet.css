@@ -159,10 +159,11 @@ span.highlight {
   padding-bottom: .375rem; 
   font-size: .875rem; 
   line-height: 1.25rem; 
-  margin: 0 5px 0 5px;
+  margin-right: 10px;
   text-decoration: none;
 }
 
 .button:hover {
+  color: #000000;
   text-decoration: none;
 }
