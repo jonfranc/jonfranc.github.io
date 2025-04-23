@@ -140,3 +140,11 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+.globe:before {
+    content: "\f0ac";
+}
+
+.button {
+  --tw-border-opacity: 1; border-color: rgb(209 213 219/var(--tw-border-opacity)); --tw-bg-opacity: 1; background-color: rgb(209 213 219/var(--tw-bg-opacity)); --tw-text-opacity: 1; color: rgb(4 4 4/var(--tw-text-opacity)); border-radius: 9999px; padding-left: 1rem; padding-right: 1rem; padding-top: .375rem; padding-bottom: .375rem; font-size: .875rem; line-height: 1.25rem;
+}
