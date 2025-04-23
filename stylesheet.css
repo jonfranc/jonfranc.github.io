@@ -163,6 +163,7 @@ span.highlight {
   text-decoration: none;
 }
 
+.button:focus,
 .button:hover {
   color: #000000;
   text-decoration: none;
