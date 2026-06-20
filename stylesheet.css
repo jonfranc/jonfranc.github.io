@@ -96,6 +96,11 @@ h2 {
   font-size: 22px;
 }
 
+.spacer {
+  color: #bbb;
+  font-weight: bold;
+}
+
 .papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
