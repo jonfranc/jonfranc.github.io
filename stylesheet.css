@@ -70,7 +70,7 @@ a {
 
 a:focus,
 a:hover {
-  color: #f09228;
+  color: #C41230 /* #f09228; */
   text-decoration: none;
 }
 
